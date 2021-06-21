@@ -396,9 +396,6 @@ int main()
 	comida(Cebreros, David, Castañeda, Felipe, Gera, Martin);
 	batalla(Cebreros, David, Castañeda, Felipe, Gera, Martin);
 
-	cout << "Holo" << endl;
-
-	cout << "Hola" << endl;
 
 
 }
